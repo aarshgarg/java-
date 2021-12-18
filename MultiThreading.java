@@ -8,6 +8,7 @@ class MyThread1 extends Thread {
             System.out.println("Thread is run concurrentlyy");
             System.out.println("It is first thread");
             i++;
+
         }
     }
 }
